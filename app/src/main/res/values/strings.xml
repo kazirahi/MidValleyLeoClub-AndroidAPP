@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Mid Valley Leo Club</string>
+    <string name="Open_Drawer">Open</string>
+    <string name="Close_Drawer">Close</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="leot">​In 1917, Melvin Jones, a 38-year-old Chicago business leader, told members of his local business club they should reach beyond business issues and address the betterment of their communities and the world. Jones group, the Business Circle of Chicago, agreed.\nAfter contacting similar groups around the United States, an organizational meeting was held on June 7, 1917, in Chicago, Illinois, USA. The new group took the name of one of the invited groups, the "Association of Lions Clubs," and a national convention was held in Dallas, Texas, USA in October of that year. A constitution, by-laws, objects and a code of ethics were approved.\n
+Within three years, Lions became an international organization. Since then, we have earned high marks for both integrity and transparency. We arre a well-run organization with a steady vision, a clear mission, and a long – and proud – history.
+Beginning in 1917Melvin Jones asked a simple and world-changing question – what if people put their talents to work improving their communities? Almost 100 years later, Lions Clubs International is the world is largest service club organization, with 1.35 million members in more than 46,000 clubs and countless stories of Lions acting on the same simple idea: lets improve our communities.
+1920: Going InternationalJust three years after our founding, Lions became international when we established the first club in Canada. Mexico followed in 1927. In the 1950s and 1960s international growth accelerated, with new clubs in Europe, Asia and Africa.
+1925: Eradicating Blindness Helen Keller addressed the Lions Clubs International Convention in Cedar Point, Ohio, USA, and challenged Lions to become "knights of the blind in the crusade against darkness." Since then, we have worked tirelessly to aid the blind and visually impaired.
+1945: Uniting NationsThe ideal of an international organization is exemplified by our enduring relationship with the United Nations. We were one of the first nongovernmental organizations invited to assist in the drafting of the United Nations Charter and have supported the work of the UN ever since.
+1957: Organizing Youth ProgramsIn the late 1950s, we created the Leo Program to provide the youth of the world with an opportunity for personal development through volunteering. There are approximately 144,000 Leos and 5,700 Leo clubs in more than 140 countries worldwide.
+1968: Establishing Our FoundationLions Clubs International Foundation assists Lions with global and large-scale local humanitarian projects. Through our Foundation, Lions meet the needs of their local and global communities.
+1990: Launching SightFirstThrough SightFirst, Lions are restoring sight and preventing blindness on a global scale. Launched in 1990, Lions have raised more than $346 million for this initiative. SightFirst targets the major causes of blindness: cataract, trachoma, river blindness, childhood blindness, diabetic retinopathy and glaucoma.Today: Extending Our ReachLions Clubs International extends our mission of service every day – in local communities, in all corners of the globe. The needs are great and our services broad, including sight, health, youth, elderly, the environment and disaster relief. Our international network has grown to include over 200 countries and geographic areas.</string>
+
+
+    <string name="rahi">Hello Dear,\nI am Kazi Samsul Alam Rahi son of Kazi Salah Uddin and Kazi Samsun Nahar. I studied B.Sc in Computer Science and Engineering at Eastern University, Bangladesh.
+    \nI joined Leoism in 2016-2017 seasons at Joint Treasurer at Dhaka Mid Valley Leo Club. 2017-2018 seasons I continue my carrier at Leoism at Secretary this club and 2018-2019 seasons continued @Vice President.\n
+    2019-2020 season I am acting like a President. I am very glad and Thankful to my Adviser Lion Kazi Aminul Hassan sir, and club directors, club cabinet and club members.\n
+    I hope I will give a successful year in Leo. Please pray for me.\n
+    Awards:\n
+    1. Best Treasurer in PST(2016-2017)\n
+    2. Best Secretary in PST(2017-2018)\n
+    \n
+        Thank You\n
+        Kazi Samsul Alam Rahi\n
+        President\n
+        Dhaka Mid Valley Leo Club\n
+        District Director\n
+        Leo District Council, 315B2, Bangladesh\n
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

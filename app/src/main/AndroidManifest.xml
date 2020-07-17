@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.differentway.midvalleyleoclub">
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Mid Valley Leo Club"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".WelcomeScreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MYACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".About"
+            android:label="About"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".PresidentSpeech"
+            android:label="President"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ClubDirectorMain"
+            android:label="Club Directors"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ClubMemberMain"
+            android:label="Club Cabinet and Members"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ClubAdvisor"
+            android:label="Club Adviser"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Leoism"
+            android:label="About Leo"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Ipp"
+            android:label="Proud Past President"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DistrictCabinetMain"
+            android:label="District Cabinet"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>

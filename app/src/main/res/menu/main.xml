@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/about"
+    android:title="About"
+    android:orderInCategory="100"
+    app:showAsAction="never"
+
+    />
+    <item
+        android:id="@+id/Exit"
+        android:title="Exit"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+
+        />
+    <item
+        android:id="@+id/mailbar"
+        android:icon="@drawable/ic_action_floating"
+
+        android:orderInCategory="100"
+        app:showAsAction="always"
+
+        android:title="" />
+</menu>

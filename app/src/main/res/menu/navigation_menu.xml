@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_main_activity"
+            android:title="Main Activity" />
+        <item
+            android:id="@+id/navigation_club_president"
+            android:title="Club President" />
+        <item
+            android:id="@+id/navigation_club_cabinets"
+            android:title="Club Cabinets" />
+        <item
+            android:id="@+id/navigation_club_directors"
+            android:title="Club Directors" />
+        <item
+            android:id="@+id/navigation_club_adviser"
+            android:title="Club Advider" />
+        <item
+            android:id="@+id/navigation_proudpast"
+            android:title="Proud Past" />
+        <item
+            android:id="@+id/navigation_leoism"
+            android:title="Leoism" />
+        <item
+            android:id="@+id/navigation_district_cabinets"
+            android:title="District Cabinets" />
+    </group>
+    <item android:title="Advanced">
+        <menu>
+            <item
+                android:id="@+id/navigation_about"
+                android:title="About" />
+            <item
+                android:id="@+id/navigation_exit"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>
